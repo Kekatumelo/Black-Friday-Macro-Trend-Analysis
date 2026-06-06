@@ -47,17 +47,4 @@ Recommendation 1:To protect profit margins, we should dial back the heavy discou
 Recommendation 2: Because the sales numbers are so flat across different cities, we shouldn't spend the extra money running local, geotargeted ads to fix lower-performing areas. A buyer in LA is acting exactly like a buyer in New York. We should just run broad, national campaigns and focus on what they are buying, rather than where they live.
 
 Recommendation 3: Since the ads are working well to bring people in, we shouldn't change much there. Instead, we need to figure out why people aren't sticking around. We should review the VIP rewards program to make sure the perks are actually exciting enough to convince a first-time buyer to come back.
-
-
-
-
-
-
-
-
-
-
-
-
-
 Geographic Breakdown: Finally, I filtered the geographic data to isolate the bottom 5 cities to see where sales were underperforming the most.
