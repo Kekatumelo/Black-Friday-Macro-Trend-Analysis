@@ -40,7 +40,8 @@ Insight 3: The company is great at acquiring customers, but terrible at keeping 
 
 The Finding: The data shows that our ads are doing exactly what they are supposed to do: just over 30% of our shoppers are brand new. However, only 10% of our customers make it to VIP status, and just 25% are considered loyal. This tells us we are great at getting people to buy for the first time, but we struggle to turn them into long-term fans.
 
-4. Strategic Recommendations
+# 4. Strategic Recommendations
+
 Recommendation 1:To protect profit margins, we should dial back the heavy discounts.
 
 Recommendation 2: Because the sales numbers are so flat across different cities, we shouldn't spend the extra money running local, geotargeted ads to fix lower-performing areas. A buyer in LA is acting exactly like a buyer in New York. We should just run broad, national campaigns and focus on what they are buying, rather than where they live.
