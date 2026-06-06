@@ -60,7 +60,4 @@ Recommendation 3: Since the ads are working well to bring people in, we shouldn'
 
 
 
-
-
-
 Geographic Breakdown: Finally, I filtered the geographic data to isolate the bottom 5 cities to see where sales were underperforming the most.
